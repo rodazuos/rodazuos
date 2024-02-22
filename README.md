@@ -1,5 +1,10 @@
 ![0](https://user-images.githubusercontent.com/44470755/94935704-c074ea00-04a3-11eb-817b-46080cfc547a.jpg)
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodazuos&show_icons=true&theme=_&include_all_commits=true&count_private=true"> 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodazuos&layout=compact&langs_count=10&theme=_"> 
+
 <!--
 **rodazuos/rodazuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
